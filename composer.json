@@ -1,11 +1,11 @@
 {
-    "name": "ltuoaHg/umengOpenApi",
+    "name": "ltuoahg/umeng-open-api",
     "description": "友盟open api",
     "keywords": ["umeng", "openApi", "sdk"],
     "license": "MIT",
     "authors": [
         {
-            "name": "ltuoaHg",
+            "name": "ltuoahg",
             "email": "ltuoaHg@gmail.com"
         }
     ],
