@@ -1,6 +1,6 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\apiexample;
+namespace ltuoaHg\umengOpenApi\com\alibaba\china\openapi\client\example\param\apiexample; 
 
 use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\ByteArray; 
 use ltuoaHg\umengOpenApi\com\alibaba\openapi\client\entity\SDKDomain;
