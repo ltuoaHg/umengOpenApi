@@ -13,7 +13,7 @@ Laravel/Lumen >= 5.1
 ## 安装
 
 ```shell
-composer require "ltuoaHg/umengOpenApi:dev-master"
+composer require "ltuoahg/umeng-open-api":"dev-master"
 ```
 
 ## 配置
