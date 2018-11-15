@@ -1,6 +1,6 @@
 <?php
 
-namespace ltuoaHg\umengOpenApi\com\openapi\util; 
+namespace ltuoaHg\umengOpenApi\com\alibaba\openapi\client\util;
 
 class SignatureUtil
 {
