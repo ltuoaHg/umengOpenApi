@@ -1,4 +1,4 @@
-# umeng opne api
+# umeng open api
 
 友盟open api 数据接口
 
